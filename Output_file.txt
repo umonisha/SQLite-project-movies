@@ -1,0 +1,30 @@
+
+##########print_all_rows()
+Output::
+('In the Mood for Love', 'Tony Leung', 'Maggie Cheung', 'Wong Kar-wai', 2000)
+('Eternal Sunshine of the Spotless Mind', 'Jim Carrey', 'Kate Winslet', 'Micheal Gondry', 2004)
+('The Science of Sleep', 'Gael García Bernal', 'Charlotte Gainsbourg', 'Micheal Gondry', 2006)
+('Fight Club', 'Brad Pitt', 'Helena Bonham', 'David Fincher', 1999)
+('Se7en', 'Ben Affleck', 'Rosamund Pike', 'David Fincher', 2014)
+('The Mask', 'Jim Carrey', 'Camron Diaz', 'Chuck Russel', 1994)
+('The Majestic', 'Jim Carrey', 'Laurie Holden', 'Frank Darabont', 2001)
+('The Wolf of Wall Street', 'Leonardo DiCaprio', 'Margot Robbie', 'Martin Scorsese', 2013)
+('Shutter Island', 'Leonardo DiCaprio', 'Emily Mortimer', 'Martin  Scorsese', 2010)
+('Inception', 'Leonardo DiCaprio', 'Marion Cotillard', 'Christopher Nolan', 2010)
+
+
+
+######print_actor_movies("Leonardo DiCaprio")
+Output::
+********** Leonardo DiCaprio Movies***********
+('The Wolf of Wall Street', 'Leonardo DiCaprio', 'Margot Robbie', 'Martin Scorsese', 2013)
+('Shutter Island', 'Leonardo DiCaprio', 'Emily Mortimer', 'Martin  Scorsese', 2010)
+('Inception', 'Leonardo DiCaprio', 'Marion Cotillard', 'Christopher Nolan', 2010)
+
+
+
+######print_director_movie("Micheal Gondry")
+Output::
+********** Micheal Gondry Movies***********
+('Eternal Sunshine of the Spotless Mind', 'Jim Carrey', 'Kate Winslet', 'Micheal Gondry', 2004)
+('The Science of Sleep', 'Gael García Bernal', 'Charlotte Gainsbourg', 'Micheal Gondry', 2006)
